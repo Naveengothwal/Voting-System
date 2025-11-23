@@ -1,5 +1,6 @@
 # Voting-System
 In this lab, you will build a voting system that uses Map to create a poll and Set to prevent duplicate voting.
+
 Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 User Stories:
 1.	You should initialize a poll variable to a new Map object.
